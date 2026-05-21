@@ -1,4 +1,3 @@
-|
 <div align="center">
  
 <img width="917" height="470" alt="image" src="https://github.com/user-attachments/assets/efa4d911-0d17-45d0-948c-577c9ab0c7d4" />
@@ -71,7 +70,3 @@ Feel free to contribute presets, themes, or improvements!
 - AutoEQ project for headphone profiles
 
 ---
-
-Готово!  
-
-Если хочешь добавить конкретные инструкции по установке, ссылки на официальные файлы, или изменить акценты (больше на bass boost / gaming) — просто скажи.
